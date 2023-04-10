@@ -1,4 +1,4 @@
-# P10-Learn-Home
+# P10-Learn@Home
 
 
 ## Objectif de ce projet: Gestion d'un projet
